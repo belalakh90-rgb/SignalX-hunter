@@ -1,6 +1,5 @@
 flask
 gunicorn
-pandas
-pandas_ta
 ccxt
 requests
+pandas==1.5.3
